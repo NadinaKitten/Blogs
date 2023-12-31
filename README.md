@@ -1,0 +1,1 @@
+Practicing semantic HTML, and giving myself a space to just write about things.  Will eventually turn this full version into a condensed professional version for LinkedIn posts and resume/cover letters.
