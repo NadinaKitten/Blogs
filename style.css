@@ -1,0 +1,12 @@
+body {
+    font-family: 'Comic Sans MS', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background-color: paleturquoise;
+    font-size: 2rem;
+}
+h1 {
+    font-family: 'Comic Sans MS', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    font-size: 3rem;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="style.css">
+    <title>NadinaKitten - Blog</title>
+    </head>
+    <body>
+        <h1>Welcome to NadinaKitten's Blog!</h1>
+        <p>Hi all!  A lot has happened, and I wanted a place to keep track (and practice my writing) so I'm starting a blog!  Not likely to have regular updates, but will be a great place for me to look back and say "oh yea, I did do that."</p>
+        <p><a href = "End of 2023.html">View my End of 2023 blog</a></p>
+    </body>
+</html>
